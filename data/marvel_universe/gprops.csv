@@ -1,0 +1,6 @@
+# prop_name, value
+name,marvel_universe
+description,"The Marvel Universe collaboration network, where two Marvel characters are considered linked if they jointly appear in the same Marvel comic book"
+citation,"['R. Alberich, J. Miro-Julia, and F. Rossello, \"Marvel Universe looks almost like a real social network.\" arxiv:cond-mat/0202174 (2002)., http://arxiv.org/abs/cond-mat/0202174']"
+url,http://bioinfo.uib.es/~joemiro/marvel/porgat.txt
+tags,"['Social', 'Fictional', 'Unweighted']"
